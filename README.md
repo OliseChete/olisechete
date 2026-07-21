@@ -1,17 +1,22 @@
 # Hi, I'm Oliseneku David Chete
 
-I am a CISA-certified IT audit and GRC professional based in the Greater Toronto Area, Canada.
+CISA-certified IT Audit and GRC professional based in the Greater Toronto Area, Canada.
+
+I built this portfolio to demonstrate practical IT audit, technology risk and cybersecurity governance skills through real-world style projects, documentation and control testing examples.
+
 
 ## Target Roles
 
-I am currently pursuing opportunities in:
+I am currently seeking opportunities in:
 
-* IT Audit
-* Technology Risk
-* Governance, Risk and Compliance
+* IT Auditor
+* Senior IT Auditor
+* Technology Risk Consultant
+* IT Risk & Controls Analyst
+* Governance, Risk and Compliance (GRC)
 * Internal Audit
-* IT Controls and Compliance
 * Cybersecurity Risk
+
 
 ## Professional Focus
 
@@ -69,9 +74,12 @@ My work and portfolio focus on:
 
 ## Portfolio Status
 
-This portfolio is currently in progress.
+This portfolio is actively being expanded.
 
-I am building practical projects that demonstrate how I approach IT audits, risk assessments, control testing and GRC documentation. New projects and supporting documents will be added as they are completed.
+Each repository contains practical projects designed to demonstrate how I approach IT audit planning, control testing, risk assessments, audit documentation and governance activities.
+
+New projects are added regularly as they are completed.
+
 
 ## Portfolio Shelves
 
@@ -83,6 +91,9 @@ I am building practical projects that demonstrate how I approach IT audits, risk
 | D     | [Open Shelf D](https://github.com/olisechete/shelf-d) | In progress |
 | E     | [Open Shelf E](https://github.com/olisechete/shelf-e) | In progress |
 
-## Connect With Me
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/olise-chete-789571131/)
+* LinkedIn: https://www.linkedin.com/in/olise-chete-789571131/
+* GitHub: https://github.com/OliseChete
+
+Thank you for visiting my portfolio.
